@@ -10,16 +10,30 @@ class TaskA < Task
 	def requires
 		[TaskB.new, TaskC.new]
 	end
+
+	def output
+		AlwaysNotExistsTarget.new
+	end
+
 end
 
 class TaskB < Task
 	def run
 		$tasks.push(self.class)
 	end
+
+	def output
+		AlwaysNotExistsTarget.new
+	end
 end
+
 class TaskC < Task
 	def run
 		$tasks.push(self.class)
+	end
+
+	def output
+		AlwaysNotExistsTarget.new
 	end
 end
 
