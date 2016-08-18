@@ -20,6 +20,10 @@ class Task
 		raise NotImplementedError, "You must implement #{self.class}##{__method__}"
 	end
 
+	def input
+		@input ||= requires.map { |task| task.output }
+	end
+
 	# Taskクラス同士を比較するためのメソッド
 	def eql?(other)
 		self.hash == other.hash
