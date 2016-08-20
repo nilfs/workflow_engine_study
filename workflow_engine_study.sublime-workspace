@@ -1,0 +1,515 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cha",
+				"character_code"
+			],
+			[
+				"ch",
+				"character_lookup2"
+			],
+			[
+				"feed",
+				"feed_dict"
+			],
+			[
+				"labe",
+				"labels_placeholder"
+			],
+			[
+				"image",
+				"images_placeholder"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"colle",
+				"collectionName"
+			],
+			[
+				"passportStratey",
+				"passportStrategy"
+			],
+			[
+				"pass",
+				"passport"
+			],
+			[
+				"pro",
+				"projections"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"box",
+				"boxType"
+			],
+			[
+				"fie",
+				"fieldASTs"
+			],
+			[
+				"Grap",
+				"GraphQLList"
+			],
+			[
+				"item",
+				"itemThumbnailUrl"
+			],
+			[
+				"thu",
+				"thumbnailUrl"
+			],
+			[
+				"thumbnai",
+				"thumbnailUrl"
+			],
+			[
+				"thumb",
+				"itemThumbnailUrl"
+			],
+			[
+				"toke",
+				"tokenSecret"
+			],
+			[
+				"disp",
+				"displayLine"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"last_filter": "virtual",
+		"selected_items":
+		[
+			[
+				"virtual",
+				"Virtualenv: New"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"virut",
+				"Virtualenv: Activate"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"upload",
+				"SFTP: Upload File"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"packageins",
+				"Package Control: Install Package"
+			],
+			[
+				"uploa",
+				"SFTP: Upload File"
+			],
+			[
+				"",
+				"Git: Commit"
+			],
+			[
+				"uplo",
+				"SFTP: Upload File"
+			],
+			[
+				"package install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ooikeisuke/dev/python_work/tensorflow_test/tensorflow/tensorflow/examples/tutorials/mnist/mnist.py",
+		"/Users/ooikeisuke/dev/python_work/tensorflow_test/tensorflow/tensorflow/examples/tutorials/mnist/fully_connected_feed.py",
+		"/Users/ooikeisuke/dev/python_work/tensorflow_test/test.py",
+		"/Users/ooikeisuke/Documents/github/font2img/font2img.py",
+		"/Users/ooikeisuke/Documents/github/font2img/font2img.rb",
+		"/Users/ooikeisuke/Downloads/brdf-master/src/brdfs/d_phong.brdf",
+		"/Users/ooikeisuke/Downloads/brdf-master/src/shaderTemplates/brdftemplate3D.vert",
+		"/Users/ooikeisuke/Downloads/brdf-master/src/shaderTemplates/brdftemplate3D.frag",
+		"/Users/ooikeisuke/Documents/github/training_docker/kibana/sftp-config.json",
+		"/Users/ooikeisuke/Documents/github/redmine_user_search_theme/sftp-config.json",
+		"/Users/ooikeisuke/.quickwindow/_config.json",
+		"/Users/ooikeisuke/Documents/github/tensorflow-master/tensorflow/examples/tutorials/mnist/test.py",
+		"/Users/ooikeisuke/tensorflow/colorize-20160110/calc.py",
+		"/Users/ooikeisuke/tensorflow/colorize-20160110/forward.py",
+		"/Users/ooikeisuke/Documents/github/tensorflow-master/tensorflow/examples/tutorials/mnist/mnist.py",
+		"/Users/ooikeisuke/Documents/github/tensorflow-master/tensorflow/examples/tutorials/mnist/input_data.py",
+		"/Users/ooikeisuke/Downloads/DCGAN-tensorflow-master/main.py",
+		"/Users/ooikeisuke/Downloads/chosen_v1.5.0/chosen.css",
+		"/Users/ooikeisuke/config.json",
+		"/Users/ooikeisuke/Documents/work/会社向け発表/untitled folder/binding_sample.html",
+		"/Users/ooikeisuke/Documents/github/kashite/graphql-server/seed/seed.js",
+		"/Users/ooikeisuke/Documents/github/kashite/graphql-server/src/server/views/index.ect",
+		"/Users/ooikeisuke/Documents/github/kashite/README.md",
+		"/Users/ooikeisuke/Documents/github/kashite/graphql-server/src/client/index.js",
+		"/Users/ooikeisuke/Documents/github/kashite/graphql-server/src/server/item.js",
+		"/Users/ooikeisuke/Documents/github/kashite/graphql-server/src/server/schema.js",
+		"/Users/ooikeisuke/Documents/github/kashite/graphql-server/src/server/box.js",
+		"/Users/ooikeisuke/Documents/github/kashite/graphql-server/src/server/views/addItem.ect",
+		"/Users/ooikeisuke/Documents/github/kashite/sftp-config.json",
+		"/Users/ooikeisuke/Documents/github/kashite/graphql-server/src/sftp-config.json",
+		"/Users/ooikeisuke/Documents/nilstation.txt",
+		"/Users/ooikeisuke/Documents/github/kashite/setup/install_nodejs.sh",
+		"/Users/ooikeisuke/Documents/github/kashite/setup/install_server.sh",
+		"/Users/ooikeisuke/Documents/github/kashite/graphql-server/src/server/views/login.ect",
+		"/Users/ooikeisuke/Documents/github/kashite/graphql-server/package.json",
+		"/Users/ooikeisuke/Documents/github/kashite/graphql-server/src/server/server.js",
+		"/Users/ooikeisuke/Documents/github/kashite/kashite.sublime-project",
+		"/Users/ooikeisuke/Documents/リフ休中にやってたこと.txt",
+		"/Users/ooikeisuke/Documents/work/図書館アプリ/リーンキャンバス",
+		"/Users/ooikeisuke/Downloads/DooMLoRD_v4_ROOT-zergRush-busybox-su/runme.bat",
+		"/Users/ooikeisuke/Downloads/DooMLoRD_v4_ROOT-zergRush-busybox-su/runme.sh",
+		"/Users/ooikeisuke/Downloads/rootkitXperia_20140719/files/install_tool.sh",
+		"/Users/ooikeisuke/Downloads/rootkitXperia_20140719/install.sh",
+		"/Users/ooikeisuke/Documents/weka-3-6-12/data/soybean.arff",
+		"/Users/ooikeisuke/Documents/weka-3-6-12/data/sample/os.arff",
+		"/Users/ooikeisuke/Documents/weka-3-6-12/data/glass.arff",
+		"/Users/ooikeisuke/Documents/weka-3-6-12/data/cpu.arff",
+		"/Users/ooikeisuke/Downloads/hbase-docker-master/Gemfile",
+		"/Users/ooikeisuke/Downloads/hbase-docker-master/Dockerfile",
+		"/Users/ooikeisuke/Downloads/hbase-docker-master/hbase_test.rb",
+		"/Users/ooikeisuke/Downloads/hbase-docker-master/start-hbase.sh",
+		"/Users/ooikeisuke/Documents/SmartDrive/SmartDrive作業日誌",
+		"/Users/ooikeisuke/Documents/work/dockerlauncher/HelloWorld/Dockerfile",
+		"/Users/ooikeisuke/Documents/github/panamax-api/app/models/converters/template_converter.rb",
+		"/Users/ooikeisuke/Documents/github/panamax-api/app/models/local_image.rb",
+		"/Users/ooikeisuke/Documents/github/panamax-api/app/builders/template_builder/from_json.rb",
+		"/Users/ooikeisuke/Documents/github/panamax-api/app/models/user.rb",
+		"/Users/ooikeisuke/Documents/github/panamax-api/app/models/template_repo.rb",
+		"/Users/ooikeisuke/Documents/github/panamax-api/app/serializers/remote_image_search_result_serializer.rb",
+		"/Users/ooikeisuke/Documents/github/panamax-api/app/models/concerns/template_github.rb",
+		"/Users/ooikeisuke/Documents/github/panamax-api/app/controllers/repositories_controller.rb",
+		"/Users/ooikeisuke/Documents/github/panamax-api/app/serializers/local_image_search_result_serializer.rb",
+		"/Users/ooikeisuke/Documents/github/panamax-api/app/models/concerns/service_journal.rb",
+		"/Users/ooikeisuke/Documents/github/panamax-api/app/models/concerns/docker_runnable.rb",
+		"/Users/ooikeisuke/Documents/github/panamax-api/app/models/remote_image.rb",
+		"/Users/ooikeisuke/Documents/github/panamax-api/app/models/image.rb",
+		"/Users/ooikeisuke/Documents/github/panamax-api/app/controllers/local_images_controller.rb",
+		"/Users/ooikeisuke/Documents/github/panamax-api/app/builders/app_builder/from_image.rb",
+		"/Users/ooikeisuke/Documents/github/panamax-api/app/builders/app_builder/from_template.rb",
+		"/Users/ooikeisuke/Documents/github/panamax-api/spec/builders/app_builder/from_template_spec.rb",
+		"/Users/ooikeisuke/Documents/github/panamax-api/app/builders/template_builder/from_fig.rb",
+		"/Users/ooikeisuke/Documents/github/panamax-api/app/controllers/services_controller.rb",
+		"/Users/ooikeisuke/Documents/work/instrastructure as LL/infrastructure as LL.txt",
+		"/Users/ooikeisuke/Documents/work/孫ちゃんねる/現在の実装上でつまってるところ.txt",
+		"/Users/ooikeisuke/Documents/github/calendar/CalendarPrototype/Podfile",
+		"/Users/ooikeisuke/Documents/github/anokoro/Podfile",
+		"/Users/ooikeisuke/Documents/work/あの頃/fqlメモ.txt",
+		"/Users/ooikeisuke/Documents/work/あの頃/チョークテクスチャメモ.txt",
+		"/Users/ooikeisuke/Documents/work/孫ちゃんねる/20140215開発合宿スケジュール",
+		"/Users/ooikeisuke/Documents/github/famcat_ios/Podfile",
+		"/Users/ooikeisuke/Documents/github/anokoro/lib/MixiSDK/MixiSDK.podspec",
+		"/Users/ooikeisuke/Documents/manifest.ini",
+		"/Users/ooikeisuke/Documents/github/testios/Podfile",
+		"/Users/ooikeisuke/Documents/github/test_ios/Podfile",
+		"/Users/ooikeisuke/Documents/github/NKToggleOverlayButton/NKToggleOverlayButton.podspec",
+		"/Users/ooikeisuke/dev/prolog/sample.pl"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/ooikeisuke/Documents/github/kashite/graphql-server/src/server/public/item",
+			"/Users/ooikeisuke/Documents/github/kashite/graphql-server/src/server",
+			"/Users/ooikeisuke/Documents/github/panamax-api"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"draw",
+			"bbox",
+			"color",
+			"export_icon",
+			"labels_placeholder",
+			"training",
+			"mnist",
+			"run_training",
+			"IMAGE_PIXELS",
+			"do_eval",
+			"train_o",
+			"eval_correct",
+			"loss",
+			"# ",
+			"hidden1",
+			"inference",
+			"name",
+			"placeholder_inputs",
+			"images_placeholder",
+			"inference",
+			"training",
+			"ReadTensorFromImageFile",
+			"image",
+			"#",
+			"imread",
+			"summary",
+			"mnist",
+			"tf.gfile",
+			"shark_gray",
+			"with-drop",
+			"with",
+			"step",
+			"mainwindow",
+			"onscreen",
+			"name",
+			"title",
+			"deleteId",
+			"559645cd1a38532d14349242",
+			"	\n",
+			"userdata",
+			"getprojection",
+			"getProjection",
+			"schema",
+			"session",
+			"user.save",
+			"form",
+			"Item",
+			"thumbnailUrl",
+			"itemThumbnailUrl",
+			"thumbnailUrl",
+			"names",
+			"userId",
+			"thumbnail_url",
+			"friend",
+			"user.",
+			"co(",
+			"findoneandupdate",
+			"yield",
+			"co",
+			"yield",
+			"User",
+			"user",
+			"port",
+			"process",
+			"title",
+			"session",
+			"require",
+			"passport",
+			"index",
+			"parseBody",
+			"log",
+			"getItemAll",
+			"log",
+			"schema",
+			"mutation",
+			"GraphQLObjectType",
+			"ite",
+			"mutation",
+			"item",
+			"schema",
+			"userId",
+			"deleteId",
+			"559645cd1a38532d14349242",
+			"updateUser",
+			"createuser",
+			"@echo",
+			"@adb",
+			"HBASE_VERSION",
+			"github_client",
+			"github",
+			"github_client",
+			"yaml",
+			"images",
+			"images.source",
+			"LocalImage",
+			"images",
+			"TemplateConverter",
+			"image.source",
+			".source",
+			"source",
+			"service",
+			"ooikeisuke",
+			"ProjectProject",
+			"famcat",
+			"dropbox",
+			"fam",
+			"TestFlight: Checkpoint Passed - take picture",
+			"take"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tf_gfile",
+			"thumbnailUrl",
+			"echo",
+			"adb",
+			"me",
+			"Project",
+			"MyProject"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/Virtualenv/Python + Virtualenv.sublime-build",
+	"project": "workflow_engine_study.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
