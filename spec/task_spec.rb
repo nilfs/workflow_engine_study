@@ -7,7 +7,7 @@ class TaskA < Task
 		$tasks.push(self.class)
 	end
 
-	def requires
+	def _create_requires
 		[TaskB.new, TaskC.new]
 	end
 
