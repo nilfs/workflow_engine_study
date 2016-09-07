@@ -20,6 +20,16 @@ class Task
 		raise NotImplementedError, "You must implement #{self.class}##{__method__}"
 	end
 
+	# Taskが実行可能か
+	def ready?
+		requires.all? { |t| t.completed? }
+	end
+
+	def completed?
+		output.exists?
+		#output.all? { |o| o.exists? }
+	end
+
 	# 依存先を返す
 	def requires
 		@requires = _create_requires if @requires == nil
