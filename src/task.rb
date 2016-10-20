@@ -8,16 +8,19 @@ class Task
 		raise NotImplementedError, "You must implement #{self.class}##{__method__}"
 	end
 
-	# 依存先のタスクを生成する
-	def _create_requires
-		[]
-	end
-
 	# 実行結果を返す
 	#
 	# 前回の実行結果をWorkflowで取得したいのでrunの戻り値として結果を返せない
 	def output
 		raise NotImplementedError, "You must implement #{self.class}##{__method__}"
+	end
+
+	def initialize()
+		@requireTasks = []
+	end
+
+	def addRequiredTask( task )
+		@requireTasks.push(task)
 	end
 
 	# Taskが実行可能か
@@ -32,9 +35,7 @@ class Task
 
 	# 依存先を返す
 	def requires
-		@requires = _create_requires if @requires == nil
-
-		@requires
+		@requireTasks
 	end
 
 	def input

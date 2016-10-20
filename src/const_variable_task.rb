@@ -5,6 +5,7 @@ require_relative 'const_variable_target'
 class ConstVariableTask < Task
 
 	def initialize(variable)
+		super()
 		@variable = variable
 		@target = ConstVariableTarget.new(nil)
 	end

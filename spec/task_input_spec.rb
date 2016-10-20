@@ -21,6 +21,7 @@ end
 $sumResult = 0
 class SumTask < Task
 	def initialize
+		super()
 		@target = ConstVariableTarget.new(nil)
 	end
 
@@ -36,18 +37,19 @@ class SumTask < Task
 		@target = ConstVariableTarget.new(sum)
 	end
 
-	def _create_requires
-		[Task2A.new, Task2B.new, Task2C.new]
-	end
-
 	def output
 		@target
 	end
 end
 
 RSpec.describe "TaskA" do
+	sumTask = SumTask.new
+	sumTask.addRequiredTask( Task2A.new )
+	sumTask.addRequiredTask( Task2B.new )
+	sumTask.addRequiredTask( Task2C.new )
+
   it "は実行後、10を返す" do
-   	Workflow.new.run(SumTask.new)
+   	Workflow.new.run(sumTask)
 
     expect($sumResult).to eq 10
   end
